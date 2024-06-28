@@ -1,0 +1,19 @@
+.page {
+            padding: 20px;
+            border-radius: 10px;
+            outline: 2px solid #ccc;
+}
+
+
+.page input, .page button {
+    margin: 5px 0;
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    outline: 1px solid #ccc;
+}
+
+table, td, tr {
+    border: none;
+}
